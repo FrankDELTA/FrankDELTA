@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! The "Delta" in my name represents my core philosophy: **measuring change, analyzing variation, and driving evolution through data.** 
 
-I bridge the gap between macroeconomic theory and data-driven solutions. By combining a strong foundation in economics with advanced technical skills in Python, SQL, and Data Engineering, I build predictive models and analytical pipelines that translate raw data into actionable business intelligence.
+I bridge the gap between macroeconomic theory and data-driven solutions. With over 13 years of experience in health economics and complex financial structuring, by combining a strong foundation in economics with advanced technical skills in Python, SQL, and Data Engineering. My focus is building predictive models and analytical pipelines that translate raw data into actionable business intelligence.
 
 ### 🔬 What I Do
 *   **Data Science & Econometrics:** Developing predictive models, probability calculations, and statistical analysis (e.g., exchange rate pass-through mechanics, corporate bond yields).
@@ -33,9 +33,10 @@ I bridge the gap between macroeconomic theory and data-driven solutions. By comb
 *   **`ecommerce-sales-analytics`**: Data manipulation and exploratory data analysis (EDA) pipeline for retail store metrics.
 *   **`macroeconomic-yield-analysis`**: *(WIP)* Scripts for calculating corporate bond yields and mathematical probability in economic models.
 
-### 🎓 Academic & Professional Focus
-*   Currently advancing my degree in **Economics** at UADE, with a clear trajectory toward a Master's in **Econometrics** (UTDT).
-*   Certified in Data Science and constantly expanding my knowledge in Oracle Cloud Infrastructure (OCI) and Linux system administration.
+### 🎓 Professional Trajectory & Academic Focus
+*   **Industry Expertise:** Over a decade of experience in health economics, optimizing financial flows, and quantitative analysis for complex regulatory environments.
+*   **Academic Progression:** Solidifying my quantitative architecture through an Economics degree at UADE, with a direct trajectory toward a Master's in Econometrics (UTDT).
+*   **Tech Certifications:** Certified in Data Science, currently expanding cloud infrastructure capabilities focusing on Oracle Cloud (OCI) and Linux system administration.
 *   **Languages:** Spanish (Native) | English (Professional Working) | Russian (Professional Working).
 
 ### 📫 Connect with me
