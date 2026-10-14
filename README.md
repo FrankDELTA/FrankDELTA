@@ -1,6 +1,6 @@
 # 📊 Hi there, I'm FrankDELTA ($\Delta$)
 
-**Quantitative Economist | Data Scientist | Data Engineer**
+**Quantitative Economist | Data Analyst | Data Scientist | Data Engineer**
 
 Welcome to my GitHub! The "Delta" in my name represents my core philosophy: **measuring change, analyzing variation, and driving evolution through data.** 
 
